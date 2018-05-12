@@ -1,0 +1,38 @@
+_repo: If-You-re-Going-to-Live-in-the-Country_17804
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lieberman, Frank
+    gutenberg_agent_id: '7610'
+    url: http://www.gutenberg.org/2009/agents/7610
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ormsbee, Renee Richmond Huntley
+    birthdate: 1887
+    gutenberg_agent_id: '7609'
+    url: http://www.gutenberg.org/2009/agents/7609
+  - agent_name: Ormsbee, Thomas H. (Thomas Hamilton)
+    alias: Ormsbee, Thomas Hamilton
+    birthdate: 1890
+    deathdate: 1969
+    gutenberg_agent_id: '7608'
+    url: http://www.gutenberg.org/2009/agents/7608
+description: ''
+gutenberg_issued: '2006-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dwellings'
+- !lcc 'NA'
+- !lcsh 'Buildings'
+- !lcsh 'Architecture, Domestic'
+title: If You're Going to Live in the Country
+url: http://www.gutenberg.org/ebooks/17804
